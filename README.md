@@ -1,5 +1,3 @@
-markdown_content = """# Discontinued Product Auditor
-
 A lightweight Python GUI application built with `pandas` and `tkinter` to help e-commerce managers, inventory specialists, and data auditors clean up their product catalogs. 
 
 The tool compares an active website product export against a master ERP/Inventory spreadsheet (Everest) to instantly identify products that are still active online but have been discontinued, removed, or renamed in the inventory system.
